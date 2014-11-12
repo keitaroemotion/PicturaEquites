@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0mMangaHelperSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mPictura Modification should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m read dsl (27 ms)[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m allocate text according to BoxSize (66 ms)[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m #jpeg to pdf (234 ms)[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification MangaHelperSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 29 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m3 examples, 0 failure, 0 error[0m[0m

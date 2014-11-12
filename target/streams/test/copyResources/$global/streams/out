@@ -1,0 +1,15 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/gnavi.gif,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/gnavi.gif)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/itext,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/itext)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/serif.dsl,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/serif.dsl)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/itext/itext-5.5.3.zip,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/itext/itext-5.5.3.zip)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/itext/itext-pdfa-5.5.3-javadoc.jar,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/itext/itext-pdfa-5.5.3-javadoc.jar)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/itext/itext-pdfa-5.5.3-sources.jar,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/itext/itext-pdfa-5.5.3-sources.jar)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/itext/itext-pdfa-5.5.3.jar,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/itext/itext-pdfa-5.5.3.jar)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/itext/itext-xtra-5.5.3-javadoc.jar,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/itext/itext-xtra-5.5.3-javadoc.jar)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/itext/itext-xtra-5.5.3-sources.jar,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/itext/itext-xtra-5.5.3-sources.jar)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/itext/itext-xtra-5.5.3.jar,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/itext/itext-xtra-5.5.3.jar)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/itext/itextpdf-5.5.3-javadoc.jar,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/itext/itextpdf-5.5.3-javadoc.jar)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/itext/itextpdf-5.5.3-sources.jar,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/itext/itextpdf-5.5.3-sources.jar)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/itext/itextpdf-5.5.3.jar,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/itext/itextpdf-5.5.3.jar)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sugano-k/Development/Pictura/src/test/resources/itext/notice.txt,/Users/sugano-k/Development/Pictura/target/scala-2.11/test-classes/itext/notice.txt)[0m

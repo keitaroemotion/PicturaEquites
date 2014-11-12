@@ -1,0 +1,131 @@
+<jp.sugano.HelloSpec-stats timestamp="1415161781366"><stats time="244" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415162284247"><stats time="131" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415162403757"><stats time="218" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415162585047"><stats time="67" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415162628957"><stats time="25" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415164622081"><stats time="95" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415164685614"><stats time="75" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415164774256"><stats time="107" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415164994085"><stats time="567" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-results timestamp="1415165776596"><result location="jp.sugano.HelloSpec (Hello.scala:28)" id="1201403010"><stats time="1010" expectations="1" errors="1" examples="1"></stats></result>
+</jp.sugano.HelloSpec-results>
+<jp.sugano.HelloSpec-stats timestamp="1415165776606"><stats time="86" expectations="1" errors="1" examples="1"><trend><stats time="86" errors="1" successes="-1"></stats></trend></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-results timestamp="1415165814879"><result location="jp.sugano.HelloSpec (Hello.scala:28)" id="1201403010"><stats time="237" expectations="1" errors="1" examples="1"></stats></result>
+</jp.sugano.HelloSpec-results>
+<jp.sugano.HelloSpec-stats timestamp="1415165814889"><stats time="15" expectations="1" errors="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-results timestamp="1415165836200"><result location="jp.sugano.HelloSpec (Hello.scala:28)" id="1201403010"><stats time="186" expectations="1" errors="1" examples="1"></stats></result>
+</jp.sugano.HelloSpec-results>
+<jp.sugano.HelloSpec-stats timestamp="1415165836205"><stats time="16" expectations="1" errors="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415165873176"><stats time="18" expectations="1" successes="1" examples="1"><trend><stats time="18" errors="-1" successes="1"></stats></trend></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415165997063"><stats time="86" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415166517019"><stats time="15" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415166583444"><stats time="24" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415166963261"><stats time="15" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415167363581"><stats time="184" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415167386765"><stats time="16" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415167416649"><stats time="17" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415167746593"><stats time="97" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415167802167"><stats time="16" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415167836580"><stats time="15" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415167863997"><stats time="15" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415168000790"><stats time="35" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415168042314"><stats time="15" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415168219030"><stats time="16" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415168258935"><stats time="20" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415168630885"><stats time="86" expectations="1" successes="1" examples="1"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415169744267"><stats time="88" expectations="2" successes="2" examples="2"><trend><stats time="88" expectations="1" successes="1" examples="1"></stats></trend></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415169794825"><stats time="15" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415169820231"><stats time="16" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415169873842"><stats time="31" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415169895621"><stats time="26" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415169933625"><stats time="27" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415169970372"><stats time="27" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415170037718"><stats time="29" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415170106806"><stats time="46" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415170142347"><stats time="17" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415170160795"><stats time="19" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415170530712"><stats time="16" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415170791469"><stats time="15" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415170822459"><stats time="15" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415170931632"><stats time="31" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415171096870"><stats time="15" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415171122527"><stats time="15" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415171173327"><stats time="25" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415171199325"><stats time="20" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415171218412"><stats time="16" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415171348264"><stats time="26" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415171385695"><stats time="25" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415173906415"><stats time="18" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415174102139"><stats time="32" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415174209238"><stats time="28" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415174258958"><stats time="27" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415174302857"><stats time="27" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415174342788"><stats time="26" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415174396344"><stats time="32" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415174428860"><stats time="27" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415174444843"><stats time="26" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415174491362"><stats time="26" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415238326868"><stats time="87" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415238385530"><stats time="16" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415238451170"><stats time="16" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415238874189"><stats time="16" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415238980598"><stats time="19" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415239003198"><stats time="17" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415239268627"><stats time="16" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415239330114"><stats time="19" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415239371140"><stats time="15" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415239990396"><stats time="17" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415240169612"><stats time="28" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415240184158"><stats time="18" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415240265437"><stats time="16" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-results timestamp="1415240561056"><result location="jp.sugano.HelloSpec (Hello.scala:48)" id="1402863445"><stats time="87" expectations="1" failures="1" examples="1"></stats></result>
+</jp.sugano.HelloSpec-results>
+<jp.sugano.HelloSpec-stats timestamp="1415240561089"><stats time="16" expectations="2" failures="1" successes="1" examples="2"><trend><stats time="16" failures="1" successes="-1"></stats></trend></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415240602739"><stats time="15" expectations="2" successes="2" examples="2"><trend><stats time="15" failures="-1" successes="1"></stats></trend></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415240640079"><stats time="15" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415240905970"><stats time="16" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415240960195"><stats time="15" expectations="2" successes="2" examples="2"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415241848998"><stats time="21" expectations="3" successes="3" examples="3"><trend><stats time="21" expectations="1" successes="1" examples="1"></stats></trend></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-results timestamp="1415241959583"><result location="jp.sugano.HelloSpec (Hello.scala:65)" id="-869093325"><stats time="80" expectations="1" errors="1" examples="1"></stats></result>
+</jp.sugano.HelloSpec-results>
+<jp.sugano.HelloSpec-stats timestamp="1415241959592"><stats time="26" expectations="3" errors="1" successes="2" examples="3"><trend><stats time="26" errors="1" successes="-1"></stats></trend></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-results timestamp="1415241995718"><result location="jp.sugano.HelloSpec (Hello.scala:65)" id="-869093325"><stats time="22" expectations="1" errors="1" examples="1"></stats></result>
+</jp.sugano.HelloSpec-results>
+<jp.sugano.HelloSpec-stats timestamp="1415241995725"><stats time="16" expectations="3" errors="1" successes="2" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-results timestamp="1415242223588"><result location="jp.sugano.HelloSpec (Hello.scala:65)" id="-869093325"><stats time="19" expectations="1" errors="1" examples="1"></stats></result>
+</jp.sugano.HelloSpec-results>
+<jp.sugano.HelloSpec-stats timestamp="1415242223618"><stats time="16" expectations="3" errors="1" successes="2" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-results timestamp="1415242253181"><result location="jp.sugano.HelloSpec (Hello.scala:65)" id="-869093325"><stats time="19" expectations="1" errors="1" examples="1"></stats></result>
+</jp.sugano.HelloSpec-results>
+<jp.sugano.HelloSpec-stats timestamp="1415242253190"><stats time="15" expectations="3" errors="1" successes="2" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-results timestamp="1415242275993"><result location="jp.sugano.HelloSpec (Hello.scala:65)" id="-869093325"><stats time="18" expectations="1" errors="1" examples="1"></stats></result>
+</jp.sugano.HelloSpec-results>
+<jp.sugano.HelloSpec-stats timestamp="1415242276021"><stats time="15" expectations="3" errors="1" successes="2" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415242290765"><stats time="17" expectations="3" successes="3" examples="3"><trend><stats time="17" errors="-1" successes="1"></stats></trend></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415242311271"><stats time="23" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415246497931"><stats time="26" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415246544793"><stats time="21" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415246561475"><stats time="17" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415246612219"><stats time="16" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415246627217"><stats time="17" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415246667037"><stats time="15" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415246962646"><stats time="22" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-results timestamp="1415247008019"><result location="jp.sugano.HelloSpec (Hello.scala:73)" id="-869093325"><stats time="58" expectations="1" errors="1" examples="1"></stats></result>
+</jp.sugano.HelloSpec-results>
+<jp.sugano.HelloSpec-stats timestamp="1415247008026"><stats time="22" expectations="3" errors="1" successes="2" examples="3"><trend><stats time="22" errors="1" successes="-1"></stats></trend></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415247023224"><stats time="21" expectations="3" successes="3" examples="3"><trend><stats time="21" errors="-1" successes="1"></stats></trend></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415247164598"><stats time="16" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415247178980"><stats time="15" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415247198713"><stats time="21" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415247278177"><stats time="20" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415247308270"><stats time="25" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415247480459"><stats time="17" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415247503818"><stats time="19" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415247539834"><stats time="28" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415247556830"><stats time="20" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-results timestamp="1415247962946"><result location="jp.sugano.HelloSpec (Hello.scala:76)" id="-869093325"><stats time="27" expectations="1" errors="1" examples="1"></stats></result>
+</jp.sugano.HelloSpec-results>
+<jp.sugano.HelloSpec-stats timestamp="1415247962955"><stats time="29" expectations="3" errors="1" successes="2" examples="3"><trend><stats time="29" errors="1" successes="-1"></stats></trend></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415248085922"><stats time="21" expectations="3" successes="3" examples="3"><trend><stats time="21" errors="-1" successes="1"></stats></trend></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415248160357"><stats time="17" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>
+<jp.sugano.HelloSpec-stats timestamp="1415603432395"><stats time="94" expectations="3" successes="3" examples="3"></stats></jp.sugano.HelloSpec-stats>

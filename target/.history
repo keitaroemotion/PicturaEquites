@@ -1,0 +1,11 @@
+compile
+reload
+compile
+test
+reload
+compile
+test
+test-only jp.sugano.HelloSpec
+test-only jp.sugano.MangaHelper.scala
+test-only jp.sugano.MangaHelperSpec.scala
+test-only jp.sugano.MangaHelperSpec
