@@ -77,6 +77,7 @@ with TextOp
   "Pictura Modification" should {
 
     "read dsl" in {
+      // break down each argument of config lines, convert it to the BaloonStat Object
       def crumbleTextToBallonStatus(c:String, text:String, font:Font):BalloonStat = {
         text.split("-").foreach{ line =>
 
@@ -112,21 +113,23 @@ with TextOp
       val config = parseConfigLines(scala.io.Source.fromFile(dsl).getLines.toList)
 
       //Font
-      val f = config("font")(0).split("-").foldLeft(Map[String, String]()){ (map, l) =>
-        l.contains(" ") && l.trim != "" match {
-          case true => {
-            val lsplit = l.split(' ')
-            map + (lsplit(0) -> lsplit(1))
+      def setFont(config:Map[String, List[String]]):FontStat = {
+        val f = config("font")(0).split("-").foldLeft(Map[String, String]()){ (map, l) =>
+          l.contains(" ") && l.trim != "" match {
+            case true => {
+              val lsplit = l.split(' ')
+              map + (lsplit(0) -> lsplit(1))
+            }
+            case _ => map
           }
-          case _ => map
         }
+        new FontStat(f("mark"), f("location"), f("size").toDouble)
       }
 
-      val font = new FontStat(f("mark"), f("location"), f("size").toDouble)
-
-
-
-
+     // respective ballon contents
+     config("elem").foldLeft(List[BalloonStat]){
+       // draw here!!
+     }
 
       /**
       scala.io.Source.fromFile(dsl).getLines.toList.foldLeft(List[BalloonStat]()){ (bst, line) =>
