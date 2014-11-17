@@ -6,8 +6,11 @@ import com.itextpdf.text._
 import com.itextpdf.text.pdf._
 import scala.collection.immutable.Map
 import scala.collection.immutable.List
+import testhelper.TextOp
 
-class MangaHelperSpec extends Specification {
+class MangaHelperSpec extends Specification
+with TextOp
+{
 
   val pagesize = PageSize.B4
 
@@ -59,50 +62,84 @@ class MangaHelperSpec extends Specification {
         case _  => new Stat(acc, stat.container, stat.num+1)
       }
      }
+
    }
 
   class FontStat(val mark:String="", val location:String="", val size:Double=0) {
-        //font   ..mark  arial    ..location Arial.ttf  ..size 12
   }
 
   class BalloonStat(val font:Font=new Font(), val location:(Double,Double)=(0,0), val box:(Double,Double)=(0,0), val c:String="") {
+
     //elem   ..location 200 200  ..box 200 300    ..c あいうえおかきくけこさしすせそぬるぽそしてそこからのほげほげ
   }
 
 
   "Pictura Modification" should {
+
     "read dsl" in {
-      def split(c:String, text:String):List[String] = {
-        def indexValid(list:List[String], i:Int):Boolean = {
-          i >= 0 && i < list.size
+      def crumbleTextToBallonStatus(c:String, text:String, font:Font):BalloonStat = {
+        text.split("-").foreach{ line =>
+
+          val seq = line.split(" ")
+
+          var location = (0.0, 0.0)
+
+          var box = (0.0, 0.0)
+
+          var c = ""
+
+          def mkTouple(seq:Seq[String]):(Double,Double) = {
+            (seq(1).toDouble, seq(2).toDouble)
+          }
+
+          seq(0).trim match {
+            case "location" => location = mkTouple(seq)
+            case "c" => c = seq(1)
+            case "box" => box = mkTouple(seq)
+          }
+
         }
 
-        var i = -1
-        var acc = ""
+        // these linee must be removed later
+        val location = (0.0, 0.0)
+        val box = (0.0, 0.0)
+        new BalloonStat(font, location, box, c)
+      }
 
-        text.toCharArray.foldLeft(List[String]()){ (list, c) =>
-          i += 1
-          c match {
-            case '.' if  (indexValid(list,i-1) && list(i-1) == '.') => {
-              val list_new = list :+ acc
-              acc = ""
-              list_new
-            }
-            case _ => acc += c; list
+
+
+      val dsl = System.getProperty("config.resource", "src/test/resources/serif.dsl")
+      val config = parseConfigLines(scala.io.Source.fromFile(dsl).getLines.toList)
+
+      //Font
+      val f = config("font")(0).split("-").foldLeft(Map[String, String]()){ (map, l) =>
+        l.contains(" ") && l.trim != "" match {
+          case true => {
+            val lsplit = l.split(' ')
+            map + (lsplit(0) -> lsplit(1))
           }
+          case _ => map
         }
       }
-      val dsl = System.getProperty("config.resource", "src/test/resources/serif.dsl")
-      scala.io.Source.fromFile(dsl).getLines.toList.foldLeft(new BalloonStat()){ (bst, line) =>
+
+      val font = new FontStat(f("mark"), f("location"), f("size").toDouble)
+
+
+
+
+
+      /**
+      scala.io.Source.fromFile(dsl).getLines.toList.foldLeft(List[BalloonStat]()){ (bst, line) =>
          line match {
            case line if (line.startsWith("--")) => // its comment zone
            case line if (line.startsWith("elem")) => {
-             split("..",line)
+             //crumbleTextToBallonStatus(hiram_font, "..",line)
            }
            case _ => //just ignore it
          }
          bst
       }
+      */
       "" == ""
     }
 
